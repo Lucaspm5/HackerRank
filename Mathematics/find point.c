@@ -18,11 +18,11 @@ int parse_int(char*);
 
 int* findPoint(int px, int py, int qx, int qy, int* result_count)
 {
-    int* reflected = malloc(2 * sizeof(int)); // allocate memory for the result
-    reflected[0] = 2*qx - px; // calculate x coordinate of reflected point
-    reflected[1] = 2*qy - py; // calculate y coordinate of reflected point
-    *result_count = 2; // set the result count to 2
-    return reflected; // return the reflected point
+    int* reflected = malloc(2 * sizeof(int)); 
+    reflected[0] = 2*qx - px; 
+    reflected[1] = 2*qy - py; 
+    *result_count = 2;
+    return reflected; 
 }
 int main()
 {
