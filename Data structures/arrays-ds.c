@@ -18,19 +18,18 @@ int parse_int(char*);
 
 int* reverseArray(int arr_count, int* arr, int* result_count) 
 {
-    // Aloca um novo array do mesmo tamanho do array original
+    
     int* reversed = (int*) malloc(arr_count * sizeof(int));
     
-    // Copia os elementos do array original para o array invertido na ordem inversa
+    
     for (int i = 0; i < arr_count; i++) 
     {
         reversed[i] = arr[arr_count - i - 1];
     }
     
-    // Define o tamanho do array invertido como sendo o mesmo do array original
-    *result_count = arr_count;
     
-    // Retorna o ponteiro para o array invertido
+    *result_count = arr_count;
+   
     return reversed;
 }
 int main()
