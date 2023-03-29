@@ -1,15 +1,7 @@
 # HackerRank
-Questions HackerRank
+### Aproveite essas questões para aprimorar suas habilidades de programação e se divertir ao mesmo tempo! 
+* Se você quiser contribuir com o repositório, fique à vontade para enviar novas questões ou soluções em outras linguagens por meio de pull requests.
 
-## 「🌟」Badges -
-* <img src="https://img.shields.io/badge/M%C3%A9dia%20Final%3A-brown ❲⭐⭐❳-brown?labelColor=brown&label=30 days of coding:&message=Bronze ❲⭐⭐❳">
-* <img src="https://img.shields.io/badge/M%C3%A9dia%20Final%3A-Silver ❲⭐⭐⭐❳-silver?labelColor=silver&label=Problem solving:&message=Silver ❲⭐⭐⭐❳">
-* <img src="https://img.shields.io/badge/M%C3%A9dia%20Final%3A-Silver ❲⭐⭐⭐❳-silver?labelColor=silver&label=C language:&message=Silver ❲⭐⭐⭐❳">
+## My badges - 
+![image-removebg-preview (5)](https://user-images.githubusercontent.com/125845662/228689912-c43ed0b0-ea1b-47fa-b8c9-9c1de8d6526f.png)
 
-## 「⭐」Linguagens -
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="50" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="50" width="52" alt="mysql logo"  />
- </p>
- 
